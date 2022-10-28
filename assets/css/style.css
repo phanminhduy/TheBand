@@ -201,7 +201,7 @@ html {
 #slider {
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/w3_theband/assets/img/slider/slider1.jpg') top center / cover no-repeat;
+    background: url('../img/slider/slider1.jpg') top center / cover no-repeat;
     position: relative;
 
 }
